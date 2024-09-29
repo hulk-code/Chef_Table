@@ -1,0 +1,97 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Stir-Fry",
+        "short_description": "A quick and tasty stir-fry with chicken and vegetables.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaf",
+            "400 g mushrooms",
+            "200 g bell peppers",
+            "2 cloves garlic"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories",
+        "recipe_image": "https://i.ibb.co.com/2yLQcnX/Chicken-Stir-Fry.jpg"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Curry",
+        "short_description": "A rich and creamy curry made with fresh vegetables.",
+        "ingredients": [
+            "300 g potatoes",
+            "200 g carrots",
+            "150 g peas",
+            "400 ml coconut milk",
+            "2 tablespoons curry powder",
+            "1 onion"
+        ],
+        "preparing_time": "40 min",
+        "calories": "450 calories",
+        "recipe_image": "https://i.ibb.co.com/hB1ncGZ/Vegetable-Curry.jpg"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Spaghetti Aglio e Olio",
+        "short_description": "A classic Italian pasta dish with garlic and olive oil.",
+        "ingredients": [
+            "400 g spaghetti",
+            "5 cloves garlic",
+            "100 ml olive oil",
+            "1 teaspoon chili flakes",
+            "50 g parsley",
+            "Salt to taste"
+        ],
+        "preparing_time": "20 min",
+        "calories": "350 calories",
+        "recipe_image": "https://i.ibb.co.com/YjQkbjy/Spaghetti-Aglio-e-Olio.jpg"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "short_description": "Savory beef tacos with fresh toppings.",
+        "ingredients": [
+            "500 g ground beef",
+            "10 taco shells",
+            "200 g lettuce",
+            "150 g tomatoes",
+            "100 g cheese",
+            "Sour cream to taste"
+        ],
+        "preparing_time": "25 min",
+        "calories": "400 calories",
+        "recipe_image": "https://i.ibb.co.com/Kx6n9zT/Beef-Tacos.jpg"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Caprese Salad",
+        "short_description": "A fresh salad with mozzarella, tomatoes, and basil.",
+        "ingredients": [
+            "300 g mozzarella",
+            "400 g tomatoes",
+            "100 g basil",
+            "50 ml olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "15 min",
+        "calories": "250 calories",
+        "recipe_image": "https://i.ibb.co.com/ftwPRPW/Caprese-Salad.jpg"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Delicious homemade chocolate chip cookies.",
+        "ingredients": [
+            "200 g flour",
+            "100 g sugar",
+            "100 g brown sugar",
+            "150 g butter",
+            "2 eggs",
+            "200 g chocolate chips"
+        ],
+        "preparing_time": "30 min",
+        "calories": "450 calories",
+        "recipe_image": "https://i.ibb.co.com/XVKV675/Chocolate-Chip-Cookies.jpg"
+    }
+]
