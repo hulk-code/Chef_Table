@@ -13,7 +13,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Banner></Banner>
-      <div className='flex '>
+      <div className='lg:flex '>
      
         <Manus ></Manus>
         <OrderSideBar></OrderSideBar>
