@@ -11,9 +11,9 @@ const Navbar = () => {
           <ul className="navbar-links ">
            <div className='flex items-center md:gap-x-10 lg:gap-x-10 lg:mr-96 font-bold'>
            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#about">Recipes</a></li>
+            <li><a href="#services">About</a></li>
+            <li><a href="#contact">Services</a></li>
            </div>
             
             <div className="">
