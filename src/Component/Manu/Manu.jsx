@@ -2,8 +2,8 @@ import { AiOutlineClockCircle } from "react-icons/ai";
 import { GiFire } from "react-icons/gi";
 import "./Manu.css";
 
-const Manu = ({ manu }) => {
-  console.log(manu);
+const Manu = ({ manu , handleOrder }) => {
+  //   console.log(manu);
   const {
     recipe_name,
     recipe_image,
@@ -42,8 +42,8 @@ const Manu = ({ manu }) => {
               <GiFire className="mr-2" /> {calories}
             </span>
           </div>
-          <div className="card-actions">
-            <button>Want To Cook</button>
+          <div>
+          <button onClick={()=>handleOrder(manu)} className="btn btn-wide">Want To Cook</button>
           </div>
         </div>
       </div>
