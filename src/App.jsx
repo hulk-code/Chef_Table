@@ -6,6 +6,7 @@ import Manus from "./Component/Manus/Manus";
 import Navbar from "./Component/Navber/Navbar";
 import OrderSideBar from "./Component/OrderSideBar/OrderSideBar";
 import Carosel from "./Component/Carosel/Carosel";
+import CustomerReview from "./Component/CustomerReview/CustomerReview";
 
 function App() {
   const [orders, setOrders] = useState([]);
@@ -25,6 +26,7 @@ function App() {
         <OrderSideBar orders={orders}></OrderSideBar>
       </div>
       <Carosel></Carosel>
+      <CustomerReview></CustomerReview>
       <Footer></Footer>
     </>
   );
