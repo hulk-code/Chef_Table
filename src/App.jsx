@@ -5,6 +5,7 @@ import Footer from "./Component/Footer/Footer";
 import Manus from "./Component/Manus/Manus";
 import Navbar from "./Component/Navber/Navbar";
 import OrderSideBar from "./Component/OrderSideBar/OrderSideBar";
+import Carosel from "./Component/Carosel/Carosel";
 
 function App() {
   const [orders, setOrders] = useState([]);
@@ -23,6 +24,7 @@ function App() {
         <Manus handleOrder={handleOrder}></Manus>
         <OrderSideBar orders={orders}></OrderSideBar>
       </div>
+      <Carosel></Carosel>
       <Footer></Footer>
     </>
   );
