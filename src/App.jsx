@@ -7,6 +7,7 @@ import Navbar from "./Component/Navber/Navbar";
 import OrderSideBar from "./Component/OrderSideBar/OrderSideBar";
 import Carosel from "./Component/Carosel/Carosel";
 import CustomerReview from "./Component/CustomerReview/CustomerReview";
+import MontlySell from "./Component/MontlySell/MontlySell";
 
 function App() {
   const [orders, setOrders] = useState([]);
@@ -27,6 +28,7 @@ function App() {
       </div>
       <Carosel></Carosel>
       <CustomerReview></CustomerReview>
+      <MontlySell></MontlySell>
       <Footer></Footer>
     </>
   );
